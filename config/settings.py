@@ -120,6 +120,7 @@ USE_L10N = False # para separación de decimales 1,234.23
 
 USE_TZ = True
 
+#comentario 6 septiembre 11:40 am
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.1/howto/static-files/
